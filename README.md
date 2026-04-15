@@ -2,7 +2,8 @@
 # Distributed Deadlock Detection — Wait-For Graph
 
 > **Course:** Distributed Systems Lab &nbsp;|&nbsp; **Lab:** DA-4 — Distributed Deadlock Detection  
-> **Due:** 15th April 2026
+> **Name**:JESNA BINU MANCHERIKALAM
+> 
 
 ---
 
